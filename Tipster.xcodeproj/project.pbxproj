@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FF17CDA522C2FA560058AA22 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FF17CDA422C2FA560058AA22 /* SettingsViewController.m */; };
 		FFD41F5C22C2C62A002C2AF6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FFD41F5B22C2C62A002C2AF6 /* AppDelegate.m */; };
 		FFD41F5F22C2C62A002C2AF6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FFD41F5E22C2C62A002C2AF6 /* ViewController.m */; };
 		FFD41F6222C2C62A002C2AF6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD41F6022C2C62A002C2AF6 /* Main.storyboard */; };
@@ -35,6 +36,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		FF17CDA322C2FA550058AA22 /* SettingsViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		FF17CDA422C2FA560058AA22 /* SettingsViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
 		FFD41F5722C2C62A002C2AF6 /* Tipster.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipster.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFD41F5A22C2C62A002C2AF6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		FFD41F5B22C2C62A002C2AF6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -105,6 +108,8 @@
 				FFD41F5B22C2C62A002C2AF6 /* AppDelegate.m */,
 				FFD41F5D22C2C62A002C2AF6 /* ViewController.h */,
 				FFD41F5E22C2C62A002C2AF6 /* ViewController.m */,
+				FF17CDA322C2FA550058AA22 /* SettingsViewController.h */,
+				FF17CDA422C2FA560058AA22 /* SettingsViewController.m */,
 				FFD41F6022C2C62A002C2AF6 /* Main.storyboard */,
 				FFD41F6322C2C62B002C2AF6 /* Assets.xcassets */,
 				FFD41F6522C2C62B002C2AF6 /* LaunchScreen.storyboard */,
@@ -265,6 +270,7 @@
 				FFD41F5F22C2C62A002C2AF6 /* ViewController.m in Sources */,
 				FFD41F6A22C2C62B002C2AF6 /* main.m in Sources */,
 				FFD41F5C22C2C62A002C2AF6 /* AppDelegate.m in Sources */,
+				FF17CDA522C2FA560058AA22 /* SettingsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
